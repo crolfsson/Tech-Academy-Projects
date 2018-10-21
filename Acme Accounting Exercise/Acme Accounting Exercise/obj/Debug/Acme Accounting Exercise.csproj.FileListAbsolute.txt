@@ -1,0 +1,7 @@
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\Acme Accounting Exercise\Acme Accounting Exercise\bin\Debug\Acme Accounting Exercise.exe.config
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\Acme Accounting Exercise\Acme Accounting Exercise\bin\Debug\Acme Accounting Exercise.exe
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\Acme Accounting Exercise\Acme Accounting Exercise\bin\Debug\Acme Accounting Exercise.pdb
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\Acme Accounting Exercise\Acme Accounting Exercise\obj\Debug\Acme Accounting Exercise.csproj.CoreCompileInputs.cache
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\Acme Accounting Exercise\Acme Accounting Exercise\obj\Debug\Acme Accounting Exercise.exe
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\Acme Accounting Exercise\Acme Accounting Exercise\obj\Debug\Acme Accounting Exercise.pdb
+C:\Users\rolfsson\Documents\GitHub\Tech-Academy-Projects\Acme Accounting Exercise\Acme Accounting Exercise\obj\Debug\Acme Accounting Exercise.csprojAssemblyReference.cache
